@@ -24,12 +24,6 @@ Our method addresses three major challenges:
 
 3. **Optimization bias under class imbalance:** Frequent classes may dominate training, limiting the learning of rare change categories.
 
-## Framework
-
-![GSPNet Architecture](assets/GSPNet_framework.png)
-
-The proposed GSPNet adopts a Siamese encoder–decoder architecture for bi-temporal point cloud change detection.
-
 ## Main Components
 
 ### Uncertainty-Aware Geometric Prior (UAGP)
